@@ -14,6 +14,6 @@ Esta aplicación cuenta con gestor de tareas y alarmas, consultor de clima, cron
 Por desgracia, el proyecto aún se encuentra en desarrollo, con características por agregar y mejorar las que tiene, por lo que no se puede instalar en el Play Store.
 
 
-Hecho por: Kedwin Hissell Guillen García para mi clase de Lenguajes de Programación
+Hecho por: Kedwin Hissell Guillen García
 #Cuenta: #20202000370
 
