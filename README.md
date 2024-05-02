@@ -1,16 +1,19 @@
-# chronoweather
+UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS
+EN EL VALLE DE SULA
 
-A new Flutter project.
+Clase: Lenguajes de Programación
 
-## Getting Started
+Catedrático: Ing. Juan Enrique Alvarenga Rodas
 
-This project is a starting point for a Flutter application.
+# ChronoWeather
 
-A few resources to get you started if this is your first Flutter project:
+Un All-In-One útil para el día a día.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Esta aplicación cuenta con gestor de tareas y alarmas, consultor de clima, cronómetro y temporizador.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Por desgracia, el proyecto aún se encuentra en desarrollo, con características por agregar y mejorar las que tiene, por lo que no se puede instalar en el Play Store.
+
+
+Hecho por: Kedwin Hissell Guillen García para mi clase de Lenguajes de Programación
+#Cuenta: #20202000370
+
